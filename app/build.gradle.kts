@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.beckytech.listviewexample"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.beckytech.listviewexample"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

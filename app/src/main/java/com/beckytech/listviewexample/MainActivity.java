@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         for (int i = 0; i < 100; i++) {
             ListModel model = new ListModel();
-            model.setName("享学"+ i);
+            model.setName("List "+ i);
             data.add(model);
         }
 
